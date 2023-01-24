@@ -1,3 +1,4 @@
+![logo](https://github.com/Shubham-D-Gandhi/Shubham-D-Gandhi/blob/main/Banner-ShubhamGandhi.png)
 <h1 align="center">Hi 👋, I'm Shubham Gandhi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
