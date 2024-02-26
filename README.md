@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhan-d-gandhi&label=Profile%20views&color=0e75b6&style=flat" alt="shubhan-d-gandhi" /> </p>
 
-- 🌱 I’m currently learning **Google Professional Data Analytics Course**
+- 🌱 Data Analyst Interm at **Webmyne Systems Pvt Ltd**
 
 - 📫 How to reach me **shubham.gandhi1311@gmail.com**
 
